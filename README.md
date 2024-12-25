@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adi0193&show_icons=true&locale=en&layout=compact" alt="adi0193" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adi0193&show_icons=true&locale=en" alt="adi0193" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adi0193&" alt="adi0193" /></p>
